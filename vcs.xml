@@ -26,6 +26,10 @@
           <option name="url" value="https://github.com/bobocode-projects/jdbc-api-exercises" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://svlugovoyithillelcloud@bitbucket.org/PKVFadmor/contact-list-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/1112" />
