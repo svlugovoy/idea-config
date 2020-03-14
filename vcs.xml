@@ -54,9 +54,13 @@
           <option name="url" value="git@github.com:melcodx/dx-mobile-environments.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/illiasaveliev/image-viewer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IS/dev/melco/0_code" />
+    <option name="cloneParentDir" value="$USER_HOME$/IS/dev/svl/external-examples" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
