@@ -86,6 +86,10 @@
           <option name="url" value="git@github.com:melcodx/dxeng-sapi-persistance-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:melcodx/dxeng-bapi-limo-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IS/dev/melco/0_code" />
