@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/bradtraversy/it-logger.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:serhiiluhovyi/skillcrucial-react-redux-boilerplate.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IS/dev/svl/external-examples" />
