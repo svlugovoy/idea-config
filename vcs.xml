@@ -126,9 +126,13 @@
           <option name="url" value="git@github.com:serhiiluhovyi/week-2-react-routes.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.melco-janus.com:dx-melcoapp/intls-bapi-notification-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/IS/dev/svl/external-examples" />
+    <option name="cloneParentDir" value="$USER_HOME$/IS/dev/melco/0_code/0_gl" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
