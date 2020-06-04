@@ -134,6 +134,22 @@
           <option name="url" value="git@gitlab.melco-janus.com:dx-melcoapp/dx-mobile-environments.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.melco-janus.com:dx-melcoapp/intls-bapi-hotel-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.melco-janus.com:dx-melcoapp/intls-bapi-hotel-spec.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.melco-janus.com:dx-melcoapp/intls-bapi-payment-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitlab.melco-janus.com:dx-melcoapp/intls-bapi-payment-spec.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IS/dev/melco/0_code/0_gl" />
